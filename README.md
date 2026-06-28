@@ -22,9 +22,9 @@ CSV source files
 ## Project Structure
 
 ```text
-Data/                              Raw CSV files
+Data/                              Local raw CSV files, excluded from GitHub
 Data/README.md                     Dataset description; raw data is not committed
-logs/                              Execution logs
+logs/                              Local execution logs, excluded from GitHub
 outputs/                           Generated analytical outputs
 sql/vendor_sales_summary.sql        SQL transformation query
 ingestion_db.py                     CSV-to-SQLite ingestion script
@@ -32,7 +32,8 @@ get_vendor_summary.py               Summary table generation script
 ml_vendor_classification.py         Random Forest vendor classifier
 Exploratory Data Analysis.ipynb      EDA and transformation notebook
 Vendor Performance Analysis.ipynb    Business analysis notebook
-inventory.db                        SQLite database
+prepare_powerbi_dashboard_data.py    Power BI export preparation script
+inventory.db                        Local SQLite database, excluded from GitHub
 ```
 
 ## GitHub Repository Notes
@@ -74,7 +75,7 @@ Recommended files for review:
 - `ProfitMargin = GrossProfit / TotalSalesDollars * 100`
 - `StockTurnover = TotalSalesQuantity / TotalPurchaseQuantity`
 - `SalesToPurchaseRatio = TotalSalesDollars / TotalPurchaseDollars`
-- `UnsoldCapital = TotalPurchaseDollars - TotalSalesDollars` where applicable for dashboard-level inventory exposure
+- `UnsoldCapital = EndingInventoryUnits * Price`, calculated from ending inventory value
 
 ## Power BI Dashboard
 
@@ -93,6 +94,7 @@ The dashboard focuses on executive decision-making:
 python ingestion_db.py
 python get_vendor_summary.py
 python ml_vendor_classification.py
+python prepare_powerbi_dashboard_data.py
 ```
 
 If Python dependencies are missing:

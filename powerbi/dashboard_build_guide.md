@@ -7,19 +7,19 @@ This guide recreates the supplied sample dashboard in Power BI using the project
 Load this file:
 
 ```text
-C:\Users\adils\OneDrive\Desktop\Project-coll\powerbi\data\powerbi_vendor_dashboard.csv
+powerbi/data/powerbi_vendor_dashboard.csv
 ```
 
 Also load this file for the inventory KPI:
 
 ```text
-C:\Users\adils\OneDrive\Desktop\Project-coll\powerbi\data\inventory_summary.csv
+powerbi/data/inventory_summary.csv
 ```
 
 Then import the theme:
 
 ```text
-C:\Users\adils\OneDrive\Desktop\Project-coll\powerbi\theme_blue_green.json
+powerbi/theme_blue_green.json
 ```
 
 Create the DAX measures listed in `powerbi/dax_measures.md`.
