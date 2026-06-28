@@ -1,0 +1,33 @@
+# Python cache and environment files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# IDE/editor files
+.idea/
+.vscode/
+
+# Logs and local runtime files
+logs/
+*.log
+
+# Large local data/database files
+inventory.db
+*.db
+*.sqlite
+*.sqlite3
+
+# Raw source datasets are too large for GitHub.
+# Keep Data/README.md so recruiters understand the expected files.
+Data/*
+!Data/README.md
+
+# OS files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,49 @@
+{
+  "name": "Retail Insight Blue Green",
+  "dataColors": [
+    "#005A9C",
+    "#008C8C",
+    "#1ABC9C",
+    "#4BA564",
+    "#F4B43F",
+    "#E76F61",
+    "#A7A9AC",
+    "#2563EB"
+  ],
+  "background": "#F7FAFC",
+  "foreground": "#0B1F33",
+  "tableAccent": "#008C8C",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [
+          {
+            "fontFace": "Segoe UI Semibold",
+            "fontSize": 11,
+            "color": { "solid": { "color": "#08264A" } }
+          }
+        ],
+        "labels": [
+          {
+            "fontFace": "Segoe UI",
+            "fontSize": 9,
+            "color": { "solid": { "color": "#1F2937" } }
+          }
+        ],
+        "background": [
+          {
+            "color": { "solid": { "color": "#FFFFFF" } },
+            "transparency": 0
+          }
+        ],
+        "border": [
+          {
+            "show": true,
+            "color": { "solid": { "color": "#D8E1E8" } },
+            "radius": 8
+          }
+        ]
+      }
+    }
+  }
+}
