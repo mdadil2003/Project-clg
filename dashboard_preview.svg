@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="820" viewBox="0 0 1400 820">
+<rect width="1400" height="820" fill="#f7fafc"/>
+<rect x="0" y="0" width="1400" height="82" fill="#06264a"/>
+<rect x="0" y="0" width="150" height="740" fill="#052d4f"/>
+<text x="115" y="42" font-size="28" font-weight="700" fill="#ffffff">SALES &amp; PROFITS DASHBOARD</text>
+<text x="115" y="65" font-size="16" fill="#e5edf5">Business Performance Overview</text>
+<rect x="14" y="110" width="122" height="50" rx="7" fill="#13b6a6"/>
+<text x="54" y="141" font-size="15" font-weight="700" fill="#ffffff">Overview</text>
+<text x="30" y="215" font-size="15" fill="#ffffff">Vendors</text>
+<text x="30" y="285" font-size="15" fill="#ffffff">Brands</text>
+<text x="30" y="355" font-size="15" fill="#ffffff">Inventory</text>
+<text x="30" y="425" font-size="15" fill="#ffffff">Insights</text>
+
+  <rect x="170" y="92" width="260" height="92" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <circle cx="218" cy="138" r="34" fill="#4ba564"/>
+  <text x="268" y="122" font-size="14" fill="#111827">TOTAL SALES</text>
+  <text x="268" y="158" font-size="30" font-weight="700" fill="#111827">$441.41M</text>
+
+  <rect x="445" y="92" width="260" height="92" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <circle cx="493" cy="138" r="34" fill="#008c8c"/>
+  <text x="543" y="122" font-size="14" fill="#111827">TOTAL PURCHASE</text>
+  <text x="543" y="158" font-size="30" font-weight="700" fill="#111827">$307.34M</text>
+
+  <rect x="720" y="92" width="260" height="92" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <circle cx="768" cy="138" r="34" fill="#1abc9c"/>
+  <text x="818" y="122" font-size="14" fill="#111827">GROSS PROFIT</text>
+  <text x="818" y="158" font-size="30" font-weight="700" fill="#111827">$134.07M</text>
+
+  <rect x="995" y="92" width="260" height="92" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <circle cx="1043" cy="138" r="34" fill="#2563eb"/>
+  <text x="1093" y="122" font-size="14" fill="#111827">UNSOLD CAPITAL</text>
+  <text x="1093" y="158" font-size="30" font-weight="700" fill="#111827">$79.70M</text>
+
+  <rect x="170" y="208" width="430" height="270" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <text x="188" y="236" font-size="15" font-weight="700" fill="#08264a">PURCHASE CONTRIBUTION BY VENDOR</text>
+  <path d="M 300 246 A 92 92 0 0 1 382.78135467464983 378.14034526794495 L 346.7894613378455 360.6880212384037 A 52 52 0 0 0 300 286 Z" fill="#005a9c"/><path d="M 382.78135467464983 378.14034526794495 A 92 92 0 0 1 308.2555403848297 429.62884945776875 L 304.66617500012114 389.79021925873883 A 52 52 0 0 0 346.7894613378455 360.6880212384037 Z" fill="#008c8c"/><path d="M 308.2555403848297 429.62884945776875 A 92 92 0 0 1 229.50696723279145 397.1162611409184 L 260.15611191418645 371.4135389057365 A 52 52 0 0 0 304.66617500012114 389.79021925873883 Z" fill="#1abc9c"/><path d="M 229.50696723279145 397.1162611409184 A 92 92 0 0 1 210.87271740413195 315.1893117798635 L 249.62370983711804 325.10700231035764 A 52 52 0 0 0 260.15611191418645 371.4135389057365 Z" fill="#4ba564"/><path d="M 210.87271740413195 315.1893117798635 A 92 92 0 0 1 246.80282396402774 262.93962122532434 L 269.9320309361896 295.5745685186616 A 52 52 0 0 0 249.62370983711804 325.10700231035764 Z" fill="#f4b43f"/><path d="M 246.80282396402774 262.93962122532434 A 92 92 0 0 1 300 246 L 300 286 A 52 52 0 0 0 269.9320309361896 295.5745685186616 Z" fill="#a7a9ac"/>
+  <text x="265" y="334" font-size="13" fill="#111827">Total Purchase</text>
+  <text x="258" y="358" font-size="20" font-weight="700" fill="#111827">$307.34M</text>
+  
+    <circle cx="470" cy="266" r="5" fill="#005a9c"/>
+    <text x="484" y="271" font-size="12" fill="#111827">DIAGEO NORTH AMERICA INC</text>
+    <circle cx="470" cy="290" r="5" fill="#008c8c"/>
+    <text x="484" y="295" font-size="12" fill="#111827">MARTIGNETTI COMPANIES</text>
+    <circle cx="470" cy="314" r="5" fill="#1abc9c"/>
+    <text x="484" y="319" font-size="12" fill="#111827">PERNOD RICARD USA</text>
+    <circle cx="470" cy="338" r="5" fill="#4ba564"/>
+    <text x="484" y="343" font-size="12" fill="#111827">JIM BEAM BRANDS COMPANY</text>
+    <circle cx="470" cy="362" r="5" fill="#f4b43f"/>
+    <text x="484" y="367" font-size="12" fill="#111827">BACARDI USA INC</text>
+    <circle cx="470" cy="386" r="5" fill="#a7a9ac"/>
+    <text x="484" y="391" font-size="12" fill="#111827">CONSTELLATION BRANDS INC</text>
+
+  <rect x="620" y="208" width="320" height="270" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <text x="638" y="236" font-size="15" font-weight="700" fill="#08264a">TOP 5 VENDORS BY TOTAL SALES</text>
+  
+      <text x="638" y="279" font-size="13" fill="#111827">DIAGEO NORTH AMERICA INC</text>
+      <rect x="765" y="262" width="130" height="22" fill="#008c8c"/>
+      <text x="903" y="279" font-size="12" fill="#111827">$67.99M</text>
+      <text x="638" y="321" font-size="13" fill="#111827">MARTIGNETTI COMPANIES</text>
+      <rect x="765" y="304" width="75.20134196620947" height="22" fill="#008c8c"/>
+      <text x="848.2013419662095" y="321" font-size="12" fill="#111827">$39.33M</text>
+      <text x="638" y="363" font-size="13" fill="#111827">PERNOD RICARD USA</text>
+      <rect x="765" y="346" width="61.30621282006649" height="22" fill="#008c8c"/>
+      <text x="834.3062128200665" y="363" font-size="12" fill="#111827">$32.06M</text>
+      <text x="638" y="405" font-size="13" fill="#111827">JIM BEAM BRANDS COMPANY</text>
+      <rect x="765" y="388" width="60.082169237104495" height="22" fill="#008c8c"/>
+      <text x="833.0821692371045" y="405" font-size="12" fill="#111827">$31.42M</text>
+      <text x="638" y="447" font-size="13" fill="#111827">BACARDI USA INC</text>
+      <rect x="765" y="430" width="47.52348144455765" height="22" fill="#008c8c"/>
+      <text x="820.5234814445577" y="447" font-size="12" fill="#111827">$24.85M</text>
+
+  <rect x="955" y="208" width="315" height="270" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <text x="973" y="236" font-size="15" font-weight="700" fill="#08264a">TOP 5 BRANDS BY TOTAL SALES</text>
+  
+      <text x="973" y="279" font-size="13" fill="#111827">Jack Daniels No 7 Black</text>
+      <rect x="1100" y="262" width="125" height="22" fill="#005a9c"/>
+      <text x="1233" y="279" font-size="12" fill="#111827">$7.96M</text>
+      <text x="973" y="321" font-size="13" fill="#111827">Tito's Handmade Vodka</text>
+      <rect x="1100" y="304" width="116.13140070507403" height="22" fill="#005a9c"/>
+      <text x="1224.131400705074" y="321" font-size="12" fill="#111827">$7.40M</text>
+      <text x="973" y="363" font-size="13" fill="#111827">Grey Goose Vodka</text>
+      <rect x="1100" y="346" width="113.14873336914481" height="22" fill="#005a9c"/>
+      <text x="1221.1487333691448" y="363" font-size="12" fill="#111827">$7.21M</text>
+      <text x="973" y="405" font-size="13" fill="#111827">Capt Morgan Spiced Rum</text>
+      <rect x="1100" y="388" width="99.75710483229476" height="22" fill="#005a9c"/>
+      <text x="1207.7571048322948" y="405" font-size="12" fill="#111827">$6.36M</text>
+      <text x="973" y="447" font-size="13" fill="#111827">Absolut 80 Proof</text>
+      <rect x="1100" y="430" width="98.00612967009135" height="22" fill="#005a9c"/>
+      <text x="1206.0061296700915" y="447" font-size="12" fill="#111827">$6.24M</text>
+
+  <rect x="170" y="500" width="430" height="230" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <text x="188" y="528" font-size="15" font-weight="700" fill="#08264a">LOWEST INVENTORY TURNOVER</text>
+  
+      <text x="190" y="568" font-size="13" fill="#111827">TAMWORTH DISTILLING</text>
+      <polygon points="340,550 600,550 584,576 356,576" fill="#1abc9c" opacity="1"/>
+      <text x="490" y="568" font-size="12" fill="#111827">0.80</text>
+      <text x="190" y="601" font-size="13" fill="#111827">WALPOLE MTN VIEW WINERY</text>
+      <polygon points="340,583 568,583 552,609 356,609" fill="#1abc9c" opacity="0.9"/>
+      <text x="490" y="601" font-size="12" fill="#111827">0.82</text>
+      <text x="190" y="634" font-size="13" fill="#111827">SWEETWATER FARM</text>
+      <polygon points="340,616 536,616 520,642 356,642" fill="#1abc9c" opacity="0.8"/>
+      <text x="490" y="634" font-size="12" fill="#111827">0.85</text>
+      <text x="190" y="667" font-size="13" fill="#111827">BRONCO WINE COMPANY</text>
+      <polygon points="340,649 504,649 488,675 356,675" fill="#1abc9c" opacity="0.7"/>
+      <text x="490" y="667" font-size="12" fill="#111827">0.87</text>
+      <text x="190" y="700" font-size="13" fill="#111827">AMERICAN SPIRITS EXCHANGE</text>
+      <polygon points="340,682 472,682 456,708 356,708" fill="#1abc9c" opacity="0.6"/>
+      <text x="490" y="700" font-size="12" fill="#111827">0.88</text>
+
+  <rect x="620" y="500" width="650" height="230" rx="8" fill="#ffffff" stroke="#d8e1e8"/>
+  <text x="638" y="528" font-size="15" font-weight="700" fill="#08264a">TARGET BRANDS (LOW SALES, HIGH PROFIT MARGIN)</text>
+  <line x1="680" y1="685" x2="1235" y2="685" stroke="#9ca3af"/>
+  <line x1="680" y1="545" x2="680" y2="685" stroke="#9ca3af"/>
+  <circle cx="1210" cy="602.6836980275555" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="1172.397138989514" cy="595.1484642556187" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="1159.750629485174" cy="606.1335449744917" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="1102.9701244889297" cy="600.3988308607336" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="1095.5459898011873" cy="601.0498712239273" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="1060.3451292279378" cy="606.8622927971712" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="1017.3797520211428" cy="609.7239897093273" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="956.1625401759792" cy="598.7779303768287" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="919.8789499994097" cy="606.8651253321515" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="910.0198540147935" cy="600.6686213582784" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="905.4452436350908" cy="569.2447776100817" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="890.5678136840097" cy="572.6118338901791" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="882.9741993705271" cy="612.3121278194162" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="869.0941127423869" cy="622.4030226226175" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="860.7060301186525" cy="609.9226676739827" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="857.5876804650597" cy="601.3343373023009" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="852.4828116820127" cy="624.6943426690841" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="852.0370778241793" cy="597.4018917350232" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="840.3116098445796" cy="610.2942757387434" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="840.2489973202864" cy="598.7696783280543" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="838.6373521560653" cy="615.2514181885535" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="834.7800778288649" cy="569.46947191128" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="820.4153268898157" cy="608.1256083443274" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="819.5707315620917" cy="617.1615179900987" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="816.9482640776391" cy="615.7075388771511" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="815.4703774662133" cy="606.2205276929315" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="813.8036358358744" cy="602.8729270360003" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="807.781005444045" cy="605.7335676790478" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="801.0646492042391" cy="606.159318376333" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="799.2273991897766" cy="591.4985677509567" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="799.1732815746172" cy="625.5111933942135" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="796.2405323104083" cy="612.6806191789908" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="794.5260964831982" cy="604.972536904" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="794.1621974933953" cy="576.7218536805566" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="788.8425424589394" cy="624.623935895646" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="788.0246629084287" cy="591.7989237250995" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="783.4989584778713" cy="538.3357697481979" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="782.8873942251994" cy="593.2471634494544" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="782.0529993096729" cy="579.9505960294587" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="775.1277359131002" cy="622.734669076268" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="771.1089571666432" cy="629.2543047577022" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="769.1891516209362" cy="607.8856551894276" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="766.0498554884374" cy="603.5105970949684" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="764.4705163984398" cy="571.2215111069108" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="763.8336051628589" cy="600.2848292032576" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="762.5548731319614" cy="605.6913433579127" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="760.8162129061841" cy="555.5654351215393" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="757.0891769947498" cy="629.2722954574766" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="757.0452032300396" cy="563.6451496495471" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="757.0382973733116" cy="620.9216225639296" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="752.8678373196639" cy="566.0902493186096" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="751.6583228943741" cy="577.9079306464957" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="750.6543372259082" cy="602.5895614657943" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="750.218716608637" cy="571.1341796024265" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="749.4790965582439" cy="605.0856508608573" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="748.4237614731143" cy="603.2168343298451" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="747.0037907645917" cy="588.6154070193473" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="746.6392556214806" cy="605.7096666178091" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="744.920973595399" cy="583.6595852989367" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="743.6499100066804" cy="596.2947246431207" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="743.1387861100056" cy="600.0382868449516" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="742.5332040939868" cy="604.8174814649992" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="742.2799758168331" cy="612.1372988160381" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="741.8895693301365" cy="623.3696610802201" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="741.5001556684773" cy="608.3723007329963" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="741.4230806379085" cy="559.5782524721477" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="741.0088915997123" cy="607.8288233656917" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="739.8297228849998" cy="590.2929338406178" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="739.2457301555185" cy="584.0164931164227" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="738.5285930672829" cy="600.9350625009695" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="738.5267737752907" cy="618.5734806741651" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="736.9402959272493" cy="612.224988831895" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="736.7767140282562" cy="562.3490228238453" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="734.326745236028" cy="620.1762805488346" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="734.2944072210527" cy="628.7479092865722" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="734.0929529063897" cy="571.5033871992246" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="733.3384065433864" cy="608.1853433401684" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="730.798479950667" cy="600.9707180887822" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="730.7615704155796" cy="575.0383992581225" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="730.3314283026872" cy="602.6177161644417" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="730.2384414542265" cy="591.2931776358522" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="729.9892496895909" cy="583.5541064333358" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="728.6881704447311" cy="595.7370668844599" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="728.2966267341814" cy="593.3380183187603" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="728.2012929058902" cy="587.5058466819104" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="728.0772090737509" cy="615.8886940353929" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="727.4910776447587" cy="601.9842721994186" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="726.7054848709339" cy="580.3356086669157" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="725.5782291940692" cy="642.6275599105785" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="725.218010045055" cy="604.630951554353" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="724.9512595175091" cy="538.6223146774109" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="724.5982902537381" cy="592.797982013051" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="724.1635905948126" cy="594.1765361766106" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="723.8046204622832" cy="586.3665686911568" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="722.8701079254402" cy="569.3112225629229" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="721.1223059903037" cy="584.7018080890036" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="720.8991139976935" cy="601.6819799923558" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="720.6814284576199" cy="630.3157069739667" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="720.100561263796" cy="617.733719068793" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="719.8764669449453" cy="605.4727726282882" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="719.7266841161941" cy="595.7852651271037" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="719.3716034356377" cy="555.9845710931666" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="719.2151070601019" cy="583.0622313523153" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="718.7656867071565" cy="592.8095037950063" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="718.3939376121483" cy="601.6294828266341" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="718.140764565878" cy="552.4172285973466" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="717.7533119332975" cy="568.7178383360447" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="717.4960757572159" cy="535" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="717.3751407508655" cy="597.6745057962419" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="716.9487802899084" cy="630.1184400544554" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="716.6489364816917" cy="574.99301135889" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="716.6480574455828" cy="593.343576871064" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="716.5516529366716" cy="598.9975581036254" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="716.3970470543875" cy="562.4257555005006" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="716.3376751855448" cy="568.7295856979182" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.9602000453308" cy="585.564493070168" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.9511388532835" cy="563.9003585413952" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.6947763898522" cy="625.6160597807316" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.6496614086949" cy="559.0800645727446" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.6296092708415" cy="589.807448320147" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.5986946156214" cy="593.7848302544203" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.2706205062068" cy="607.33891013641" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="715.1056119202966" cy="611.1735876074049" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.8712246941546" cy="592.3119500888885" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.7711822666914" cy="593.8375413857125" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.6532902823893" cy="613.949197913436" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.6519314695701" cy="597.1801416177557" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.6197717904593" cy="602.0238289317804" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.4753416993763" cy="601.786468766373" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.2729823967435" cy="631.6235011720644" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="714.0657368245064" cy="602.5707845122712" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="713.8952916564543" cy="550.0838930368136" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="713.8210606836669" cy="571.838202408081" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="713.4757365719435" cy="579.2048972048594" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="713.4179091715403" cy="549.5990947631657" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="713.2230406406543" cy="572.5042634530113" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="713.0287763223247" cy="608.4705791382074" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="712.9211319959154" cy="602.4000628491049" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="712.3192877132982" cy="607.0916425669201" r="4" fill="#a7a9ac" opacity="0.78"/><circle cx="712.2981156528322" cy="561.2492504857896" r="4" fill="#a7a9ac" opacity="0.78"/>
+  <text x="875" y="718" font-size="12" fill="#111827">Total Sales</text>
+  <text x="628" y="620" font-size="12" fill="#111827" transform="rotate(-90 628,620)">Profit Margin</text>
+<text x="170" y="780" font-size="14" fill="#334155">Power BI implementation pack: data, DAX measures, theme JSON, Power Query steps, and build guide are saved in the powerbi folder.</text>
+</svg>
